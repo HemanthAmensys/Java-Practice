@@ -1,5 +1,4 @@
 package package2;
-
 public class UsingFinal {
 	final static double pi = 3.141;
 	
