@@ -11,7 +11,7 @@ public class ImplementingInterface implements Interface1 {
 	@Override
 	public void carColor() {
 		
-		System.out.println("Red");
+		System.out.println("blue ");
 	}
 	public static void main(String[] args) {
 		ImplementingInterface obj = new ImplementingInterface();
